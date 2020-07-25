@@ -1,6 +1,6 @@
 ## Ambitious Brains Laboratories
 
-Ab Labs is a tech startup that innavates and designs new technologies to better mankind.
+Ab Labs is a tech startup that innovates and designs new technologies to better mankind.
 
 ### Support or Contact
 
